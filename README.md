@@ -1,1 +1,1 @@
-# raspberry-pi-opencv
+OpenCV 4 and a few examples cross compiled for Raspberry Pi and BeagleBone Black. For more details check my article [Cross compiling OpenCV 4 for Raspberry Pi and BeagleBone Black](https://solarianprogrammer.com/2018/12/18/cross-compile-opencv-raspberry-pi-raspbian/).
